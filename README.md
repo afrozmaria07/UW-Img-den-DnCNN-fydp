@@ -1,1 +1,1 @@
-# UW-Img-den-DnCNN-fydp
+# UW-imageDenoising
